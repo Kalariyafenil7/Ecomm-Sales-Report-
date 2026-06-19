@@ -1,4 +1,4 @@
-Developed an interactive Power BI dashboard analyzing 8,800+ Netflix titles across genre, country, ratings, release year, and content type to support content strategy decisions. 
-Performed end-to-end data cleaning and ETL transformation using Power Query, improving data accuracy by resolving 200+ inconsistent records across the dataset. 
-Created KPI cards, heatmaps, and multi-filter charts generating 5 key business insights on content trends and global distribution strategy. 
-Designed a user-friendly dashboard layout applying data visualization best practices, reducing stakeholder content discovery time through clear genre-level breakdowns. 
+Designed an interactive Power BI dashboard tracking 6+ KPIs (revenue, orders, category performance, regional sales) across 3 product segments, enabling faster data-driven decision-making for stakeholders. 
+Implemented complex DAX parameters, drill-down filters, and slicers to enable dynamic data exploration across 10,000+ rows of sales data, reducing manual reporting effort by ~35%. 
+Built 8+ customized chart types (bar, pie, donut, clustered, scatter, line, area, map) to deliver clear visual storytelling and business intelligence insights. 
+Created SQL table joins and calculated columns to enable cross-dimensional analysis and statistical reporting across product and regional dimensions. 
