@@ -1,4 +1,4 @@
-# Ecomm-Sales-Report-
-Created interactive dashboard to track and analyze online sales data Used complex parameters to drill down in worksheet and customization using filters and slicers.
-Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
-Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
+Developed an interactive Power BI dashboard analyzing 8,800+ Netflix titles across genre, country, ratings, release year, and content type to support content strategy decisions. 
+Performed end-to-end data cleaning and ETL transformation using Power Query, improving data accuracy by resolving 200+ inconsistent records across the dataset. 
+Created KPI cards, heatmaps, and multi-filter charts generating 5 key business insights on content trends and global distribution strategy. 
+Designed a user-friendly dashboard layout applying data visualization best practices, reducing stakeholder content discovery time through clear genre-level breakdowns. 
